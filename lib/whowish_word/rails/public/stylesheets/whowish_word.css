@@ -127,6 +127,10 @@
 
 }
 
+.saveButton{
+	margin-right: 5px;
+}
+
 /*
 .whowishWordDialog > .buttonPanel > .saveButton,
 .whowishWordDialog > .buttonPanel > .closeButton {
